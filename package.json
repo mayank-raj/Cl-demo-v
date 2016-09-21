@@ -1,0 +1,13 @@
+{
+  "name"         : "contactList",
+  "version"      : "0.0.0",
+  "description"  : "Simple application.",
+  "main"         : "server.js",
+  "author"       : "Mayank",
+  "dependencies" : {
+    "body-parser"    : "^2.15.8",
+    "express"        : "^4.13.4",
+    "mongoose"       : "^4.4.12",
+    "mongojs"        : ""
+  }
+}
